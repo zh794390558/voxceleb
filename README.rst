@@ -45,3 +45,6 @@ Publications:
 [1] A. Nagrani, J. S. Chung, A. Zisserman - [VoxCeleb: a large-scale speaker identification dataset](./docs/2017-Nagrani-VoxCeleb_large-scale_speaker_identification_dataset.pdf) - INTERSPEECH, 2017
 
 [2] Yifan He, Zhang Zhang - [Speaker Identication with VoxCeleb DataSet](./docs/2017-YifajHeZhangZhang-Speaker_Identication_with_VoxCeleb_DataSet-stanford_students_raport.pdf) - Stanford students project, 2017
+
+## Download Data
+see `download.sh` in `data/v1` or `data/v2`
